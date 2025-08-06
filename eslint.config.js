@@ -7,7 +7,7 @@ export default antfu({
 		markdown: true,
 		svg: true,
 		xml: true,
-		vue: true,
+		react: true,
 	},
 	imports: {
 		overrides: {
